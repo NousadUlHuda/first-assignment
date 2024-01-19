@@ -1,0 +1,307 @@
+/* header related styles */
+.new-year{
+    background-image: url('../resources/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    margin: 30px 130px 60px 130px;
+    background-color: bisque;
+    border-radius: 16px;
+    background: linear-gradient: #070211;
+
+}
+.new-year-div{
+    display: block;
+    gap: 50px;
+}
+.new-year-title{
+    color: #FFD700;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 0px;
+    padding-top: 150px;
+}
+
+.new-year-party{
+    color: #000000;
+    text-align: center;
+    font-size: 72px;
+    margin-top: 15px;
+    padding-left: 344px;
+    padding-bottom: 200px;
+    padding-right: 344px;
+}
+
+
+.offer-class{
+    margin-top: 120px;
+}
+
+.offer-class{
+    background-color: rgb(255, 255, 255);
+}
+.offer{
+    color: #F00;
+    text-align: center;
+    font-size: 88px;
+    font-weight: 700;
+    margin-top: 120px;
+    margin-bottom: 40px;
+  }
+
+  .offer-holyday{
+    color: #F00;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 0px;
+  }
+
+  .offer-catagory{
+    color: #070211;
+    text-align: center;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 2px;
+    
+  }
+
+  .new-year-photo{
+    margin-left: 300px;
+  }
+
+  .main-column{
+    display: flex;
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    margin-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .column-title{
+    color: #FFF;
+    font-size: 64px;
+    font-weight: 600px;
+    margin: 126px 350px 298px 126px;
+    margin-bottom: 0px;
+  
+}
+
+.column-description{
+    color: rgba(255, 255, 255, 0.80);
+    font-size: 22px;
+    font-weight: 400px;
+    margin: 160px 250px 150px 126px;
+    margin-top: 20px;
+    margin-bottom: 0px; 
+    
+}
+
+.btn-primary{
+    margin: 5px 120px 0px 120px;
+    
+}
+
+main{
+    margin: 0 auto;
+}
+.new-park{
+    background-color: #f3f1e3;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    width: 1320px;
+    height: 482px;
+}
+
+.new-park-description{
+  
+    color: #070211;
+    font-size: 32px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    
+}
+
+.new-park-hotel{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 150px;
+}
+
+.btn{
+    font-size: 20px;
+    padding: 5px 15px;
+    border-radius: 5px;
+    background-color: white;
+    margin-bottom: 50px;
+    margin-top: 30px;
+
+}
+
+.offer-two{
+    display: flex;
+    text-align: justify;
+    margin-top: 50px;
+    background-color: #c9c8c4;
+    padding: 20px 30px;
+    
+}
+
+.image{
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+    margin-right: 200px;
+    
+
+}
+
+.new-best-offer{
+    color: #F00;
+    text-align: left;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0px;
+
+}
+
+.coming-soon{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding-right: 50px;
+}
+
+.paragraph{
+    margin-top: 5px;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    margin-right: 160px;
+   
+}
+
+.ok{
+  color: #F00;
+  font-size: 48px;
+  font-weight: 700;
+ }
+
+ 
+
+ .the-best-gift{
+  color: #F00;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 100px;
+  margin-bottom: 0px;
+
+ }
+
+ .our-awsome-port{
+  color: #070211;
+  font-size: 48px;
+  font-weight: 900;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  
+  
+
+
+ }
+
+ .dolor-sit{
+  color: rgba(7, 2, 17, 0.60);
+  font-size: 20px;
+  font-weight: 400;
+  margin-right: 5px;
+  margin-top: 22px;
+
+ }
+
+ .img-a{
+  
+  display: flex;
+ 
+ }
+
+ .mail{
+  margin-top: 50px;
+    margin-bottom: 0px;
+  
+ }
+
+ .subscribe-newspaper{
+  color: #070211;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 900;
+  margin-top: 5px;
+  margin-bottom: 0px;
+
+ }
+
+ .mail-g{
+  text-align: center;
+ }
+
+ .main-mail{
+    margin-top: 100px;
+    align-items: center;
+ }
+
+ .paragraph-two{
+  color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-size: 20px;
+font-weight: 400;
+margin-top: 22px;
+
+
+ }
+
+ .form{
+  padding: 25px 340px 25px 30px;
+  font-size: 18px;
+  background-color: #ffffff;
+  border-radius: 30px;
+  align-items: center;
+  border-color: white;
+  margin-left: 360px;
+ }
+
+ .footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    background: #070211;
+    padding-top: 70px;
+ }
+
+ .big-building{
+    margin-left: 100px;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+
+ }
+
+ .number{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 0px;
+ 
+ }
+
+ .site{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 5px;
+ }
