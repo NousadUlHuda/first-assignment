@@ -276,10 +276,13 @@ margin-top: 22px;
  }
 
  .footer{
+    background: #070211;
+ }
+ .footer-title{
     display: flex;
     justify-content: space-between;
     margin-top: 50px;
-    background: #070211;
+    
     padding-top: 70px;
  }
 
@@ -304,4 +307,22 @@ margin-top: 22px;
     font-size: 24px;
     font-weight: 500;
     margin-top: 5px;
+ }
+
+ .social-media-link{
+    text-align: center;
+    padding: 30px;
+ }
+
+ .number-site{
+    padding-right: 80px;
+ }
+
+ .last{
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+    display: flex;
+    padding: 5px 80px;
+    justify-content: space-between;
  }
